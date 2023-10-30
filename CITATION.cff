@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Clean with Moses"
+abstract: "This is a wrapper of Moses that cleans the parallel corpus for the use of machine translation."
+authors:
+  - family-names: "Zhang"
+    given-names: "Xuan"
+    orcid: "https://orcid.org/0000-0001-5460-1176"
+version: "1.0.0"
+date-released: "2023-10-30"
+repository-code: "https://github.com/Este1le/clean_with_moses/tree/main"
+license: "MIT"
